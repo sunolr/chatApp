@@ -12,14 +12,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@chakra-ui/react": "^2.10.4",
-    "@emotion/react": "^11.13.3",
-    "@emotion/styled": "^11.13.0",
-    "axios": "^1.7.7",
-    "framer-motion": "^6.5.1",
+    "@chakra-ui/icons": "^1.1.7",
+    "@chakra-ui/react": "^1.8.9",
+    "@chakra-ui/spinner": "^2.1.0",
+    "@chakra-ui/toast": "^7.0.2",
+    "@emotion/react": "^11.13.5",
+    "@emotion/styled": "^11.13.5",
+    "axios": "^1.7.9",
+    "dotenv": "^16.4.7",
+    "framer-motion": "^11.13.1",
     "mongoose": "^8.8.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-icons": "^5.4.0",
     "react-router-dom": "^6.28.0"
   },
   "devDependencies": {
